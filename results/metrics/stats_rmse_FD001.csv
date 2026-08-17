@@ -1,0 +1,7 @@
+Comparison,Shapiro p,Paired t p,Wilcoxon p,Significant (α=0.05)
+Baseline LSTM vs Improved LSTM,0.8015,6.91e-01,8.46e-01,False
+Baseline LSTM vs 1D-CNN,0.3051,3.34e-06,1.95e-03,True
+Baseline LSTM vs Hybrid CNN-LSTM,0.7976,4.82e-03,9.77e-03,True
+Improved LSTM vs 1D-CNN,0.2016,1.93e-06,1.95e-03,True
+Improved LSTM vs Hybrid CNN-LSTM,0.3817,3.70e-03,1.37e-02,True
+1D-CNN vs Hybrid CNN-LSTM,0.4119,1.97e-04,1.95e-03,True
