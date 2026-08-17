@@ -1,3 +1,8 @@
+The experiments use the NASA C-MAPSS turbofan engine degradation dataset.
+
+Download the dataset from the NASA Prognostics Data Repository:
+https://www.nasa.gov/content/prognostics-center-of-excellence-data-set-repository
+
 Data Set: FD001
 Train trjectories: 100
 Test trajectories: 100
